@@ -27,21 +27,21 @@ Pedro Henrique Silva Torres Souza - 125111357179 <br>
  0: Fire
  
 <h1 align="center">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Pokémon_Fire_Type_Icon.svg/1024px-Pokémon_Fire_Type_Icon.svg.png" alt="Win11Check" width="300">
+<img src = "https://1.bp.blogspot.com/-yx7Ts5Om1oc/YF6HjOUhphI/AAAAAAAARsY/ZtISgJqMMYQqxjpX30cXpuC-XWrFQNCegCLcBGAsYHQ/s16000/capa-fogo.png" alt="Win11Check" width="300">
 <br>
 </h1>
  
  1: Grass
  
  <h1 align="center">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pokémon_Grass_Type_Icon.svg/2048px-Pokémon_Grass_Type_Icon.svg.png" alt="Win11Check" width="300">
+<img src = "https://1.bp.blogspot.com/-v3NGm_RBCUo/YF59xsFke0I/AAAAAAAARro/39dQg06EsGoevbcqk35C1PvjOxb2h-fJACLcBGAsYHQ/s16000/capa-planta.png" alt="Win11Check" width="300">
 <br>
 </h1>
 
  2: Water
  
 <h1 align="center">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pokémon_Water_Type_Icon.svg/2048px-Pokémon_Water_Type_Icon.svg.png" alt="Win11Check" width="300">
+<img src = "https://1.bp.blogspot.com/-KieHXRLic1U/YF6EuV7RPoI/AAAAAAAARsI/8NZOovxMOIQCSSkiNoRMbfm_FjObDefJQCLcBGAsYHQ/s16000/capa-agua.png" alt="Win11Check" width="300">
 <br>
 </h1>
 
